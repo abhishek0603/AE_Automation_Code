@@ -1,0 +1,6 @@
+selenium==3.14.0
+xlrd
+autoit
+boto
+requests
+configparser

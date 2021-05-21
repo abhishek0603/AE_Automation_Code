@@ -1,0 +1,3 @@
+state,actiontype,actiondomain,actionkeyword,brand,offline,sort_order
+Travel,Things To Do,travelocity.com,%inspire%,Travelocity,,1
+Stay,Things Not To Do,travelocity.com,%stay%,Stay There,,2
